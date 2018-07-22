@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <iostream>
 
-const int MAXN = 10001;
+const int MAXN = 100001;
 const int INF = 1000000000;
 
 int amount[14][14];
